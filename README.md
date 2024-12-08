@@ -1,4 +1,5 @@
 FOOD-ORDERING-MENU
+<br>
 This is the food ordering menu developed using basics of core java.
 
 This project is basically a food ordering menu in which various items are availabale like breakfast,lunch ,desserts and starters.
