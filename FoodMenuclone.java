@@ -416,6 +416,7 @@ public class FoodMenuclone {
         System.out.println("welcome to V4U food delivery app \n  please,place your order");
         System.out.println( );
         f.order();
+        System.out.println("           thank you !!");
     }
 }
           
